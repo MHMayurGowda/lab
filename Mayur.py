@@ -1,1 +1,2 @@
+print("Banglore")
 print("Mysore")
